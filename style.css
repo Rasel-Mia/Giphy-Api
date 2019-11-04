@@ -1,0 +1,18 @@
+html,body{
+	
+   position:static;
+   height: 100%;
+   margin: 0;
+   padding: 0;
+   border:0;
+   background-color:powderblue;
+   font-family:inherit;  
+   vertical-align:baseline;
+   display:block;
+}
+
+
+.result{
+  display:flex;
+  flex-wrap:wrap;
+}
